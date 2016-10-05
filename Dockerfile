@@ -2,7 +2,7 @@ FROM ubuntu:14.04
 MAINTAINER Samuel Taylor "samtaylor.uk@gmail.com"
 
 # Version
-ENV DELUGE_VERSION 1.3.12-0~trusty~ppa1
+ENV DELUGE_VERSION 1.3.13-0~trusty~ppa1
 
 # Default user and password
 ENV DELUGE_USER deluge
